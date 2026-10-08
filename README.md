@@ -1,4 +1,4 @@
-# Muhammad Hammad — Portfolio
+# Muhammad Hammad's Portfolio
 
 > I build software that runs payroll, predicts ship risk and spots pet breeds.
 
