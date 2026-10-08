@@ -728,7 +728,10 @@ a { color: inherit; }
   stroke-dasharray: 14 220;
   animation: dash 2.8s linear infinite;
 }
-.agent-graph .pulse--b { animation-delay: -1.4s; }
+.agent-graph .pulse--b { animation-delay: -0.7s; }
+.agent-graph .pulse--c { animation-delay: -1.4s; }
+.agent-graph .pulse--d { animation-delay: -2.1s; }
+.agent-graph .hub { stroke: var(--text); }       /* consolidation agent */
 
 .flow-outputs {
   display: grid;

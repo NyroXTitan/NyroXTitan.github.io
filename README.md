@@ -2,7 +2,7 @@
 
 > I build software that runs payroll, predicts ship risk and spots pet breeds.
 
-Personal portfolio of **Muhammad Hammad**, a full-stack software engineer in Lahore working across React, Node.js, TypeScript, Python, LLM agents and computer vision.
+Personal portfolio of **Muhammad Hammad**, an AI and full-stack engineer in Lahore working across React, Node.js, TypeScript, Python, LLM agents and computer vision.
 
 **Live site: [nyroxtitan.github.io/Portfolio](https://nyroxtitan.github.io/Portfolio/)**
 
