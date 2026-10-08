@@ -4,9 +4,9 @@
 
 Personal portfolio of **Muhammad Hammad**, an AI and full-stack engineer in Lahore working across React, Node.js, TypeScript, Python, LLM agents and computer vision.
 
-**Live site: [nyroxtitan.github.io/Portfolio](https://nyroxtitan.github.io/Portfolio/)**
+**Live site: [nyroxtitan.github.io](https://nyroxtitan.github.io/)**
 
-[![Preview of the portfolio](Assets/og-image.png)](https://nyroxtitan.github.io/Portfolio/)
+[![Preview of the portfolio](Assets/og-image.png)](https://nyroxtitan.github.io/)
 
 ## What's inside
 
@@ -43,7 +43,7 @@ python -m http.server 8000
 1. Push this repository to GitHub on the `main` branch.
 2. Open **Settings → Pages**.
 3. Under **Build and deployment**, set **Source** to *Deploy from a branch*, pick **main** and **/ (root)**, then click **Save**.
-4. After a minute or two the site is live at <https://nyroxtitan.github.io/Portfolio/>.
+4. After a minute or two the site is live at <https://nyroxtitan.github.io/>.
 
 Every push to `main` after that updates the live site automatically.
 
